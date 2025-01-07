@@ -1,2 +1,2 @@
-install ultralytics before use  
+# install ultralytics before use  
 `pip install ultralytics` 
