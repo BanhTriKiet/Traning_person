@@ -1,0 +1,13 @@
+train: ./train/Person/images
+val: ./val/Person/images
+test: ./test/Person/images
+
+nc: 1
+names: ['Person']
+
+roboflow:
+  workspace: abc-szqgb
+  project: person-fw3eu
+  version: 4
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/abc-szqgb/person-fw3eu/dataset/4
