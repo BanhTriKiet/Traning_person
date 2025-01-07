@@ -6,4 +6,4 @@ start venv:
 install packages:  
 `pip install -r requirements.txt`  
 # run
-python main.py
+`python main.py`
